@@ -4,3 +4,4 @@
 .terraform/
 inventory.ini
 .env
+.terraform.lock.hcl
