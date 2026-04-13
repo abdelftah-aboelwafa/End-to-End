@@ -63,14 +63,14 @@ It automates infrastructure provisioning, configuration management, CI/CD, monit
 
 ```bash
 .
-├── jenkins-deployment/
+├── ansible-setup/
 │   ├── Roles/
 │   └── playbook.yml
 │
 ├── myapp/
 │   └── index.html
 │
-├── terraform/
+├── infrastructure/
 │   ├── .terraform/
 │   ├── ec2/
 │   ├── eks/
